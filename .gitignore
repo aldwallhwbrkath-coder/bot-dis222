@@ -1,0 +1,6 @@
+node_modules/
+.env
+config.local.json
+config.json
+.bot.lock
+data/
